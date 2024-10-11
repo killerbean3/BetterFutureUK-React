@@ -5,11 +5,11 @@ export const pageLinks = [
   { id: 4, href: "#test", text: "testimonials" },
 ];
 export const socialLinks = [
-  { id: 1, href: "https://www.twitter.com", icon: "fas fa-globe" },
+  { id: 1, href: "https://betterfutureuk.com", icon: "fas fa-globe" },
   { id: 2, href: "mailto:info@betterfutureuk.com", icon: "fas fa-envelope" },
   {
     id: 3,
-    href: "https://www.twitter.com",
+    href: "https://x.com/betterfuturedom",
     icon: "fa-brands fa-twitter",
   },
 ];
