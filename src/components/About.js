@@ -24,7 +24,7 @@ const About = () => {
             health services hoping to change the landscape and sigma of not only
             EUPD, but mental health in general.
           </p>
-          <a href="mailto:info@betterfutureuk.com" className="btn">
+          <a href="https://contact.betterfutureuk.com" className="btn">
             Contact us
           </a>
         </article>
