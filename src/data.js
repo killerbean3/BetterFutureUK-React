@@ -3,6 +3,7 @@ export const pageLinks = [
   { id: 2, href: "#about", text: "about" },
   { id: 3, href: "#services", text: "services" },
   { id: 4, href: "#test", text: "testimonials" },
+  { id: 4, href: "https://contact.betterfutureuk.com", text: "contact" },
 ];
 export const socialLinks = [
   { id: 1, href: "https://betterfutureuk.com", icon: "fas fa-globe" },
