@@ -7,8 +7,8 @@ const Hero = () => {
           Be Happier, Live Longer, Enjoy More <br></br>Speaker with mental
           health experience
         </p>
-        <a href="mailto:info@betterfutureuk.com" className="btn hero-btn ">
-          contact
+        <a href="#test" className="btn hero-btn ">
+          explore more
         </a>
       </div>
     </section>
